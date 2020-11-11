@@ -22,7 +22,7 @@ You can import this repository to SAP Web IDE or run it standalone. Choose the s
 
 2. Run SAP Web IDE; either personal edition or cloud edition.
 
-3. Right click on the workspace, **Go to Import -> From File System**.
+3. Right click on the workspace, **Go to Import -> From File System**. Select the zip file from your system and choose `extract archive`.
 
 4. A folder `DigitalAssetManagement` is added to your workspace.
 
